@@ -1,1 +1,1 @@
-;; Durham Haskell Compiler
+-- Durham Haskell Compiler
